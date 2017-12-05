@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es2015",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "cypress/**/*.ts",
+    "node_modules/cypress/index.d.ts"
+  ]
+}
